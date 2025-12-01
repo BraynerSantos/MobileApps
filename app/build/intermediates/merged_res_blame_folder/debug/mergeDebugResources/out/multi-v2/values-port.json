@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.brayner.quotes.app-mergeDebugResources-40:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\santo\\.gradle\\caches\\9.0-milestone-1\\transforms\\98081656199ee54f9978871dd984485a\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
