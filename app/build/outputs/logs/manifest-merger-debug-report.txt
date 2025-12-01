@@ -13,11 +13,11 @@ MERGED from [androidx.navigation:navigation-ui-ktx:2.9.6] C:\Users\santo\.gradle
 MERGED from [androidx.navigation:navigation-ui:2.9.6] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\a1c343a2ba5270dbfd1cc03b9dba92af\transformed\navigation-ui-2.9.6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\3beb151ef92d7b70e03040518b424f1b\transformed\material-1.13.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\7de8c9b31d9cf9d1bab3bb2e4559bc4b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.camera:camera-video:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c7e36612a1898b4f5b9bb433fb89716a\transformed\jetified-camera-video-1.4.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.camera:camera-lifecycle:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\62579073d01e50ab0a22fff7eeff301d\transformed\jetified-camera-lifecycle-1.4.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:17:1-36:12
-MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\dfb94f369a09ef98f15aedae8bb7d20e\transformed\jetified-camera-core-1.4.0\AndroidManifest.xml:17:1-36:12
-MERGED from [androidx.camera:camera-view:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\e981143f38c9c3709b53b32154e2093f\transformed\jetified-camera-view-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-video:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2e5d97d606ca09fd9164ff24d8574db3\transformed\jetified-camera-video-1.5.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\88a15058c9cc4a20768e8a686c344193\transformed\jetified-camera-lifecycle-1.5.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-core:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2601529a2c63d69f47cb3ea20b6e718b\transformed\jetified-camera-core-1.5.1\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-view:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\900221dd811c843d7a9ab55d39b19faa\transformed\jetified-camera-view-1.5.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\20397ec7f1c50593fd3cb269b2846d71\transformed\jetified-appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.mlkit:barcode-scanning:17.3.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\06bf51a47af3f470649c19fe5ada9383\transformed\jetified-barcode-scanning-17.3.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\fe0966104973af82109b4289efe01234\transformed\jetified-play-services-mlkit-barcode-scanning-18.3.1\AndroidManifest.xml:2:1-18:12
@@ -73,13 +73,14 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sa
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\7ddfc74ac61ae2f8024047dd6d04c324\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\029288897cd415354b4d60a5a85e45ea\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\9eda029897a84e78403634f3fa311bbf\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\a4d5c87112c258bc6bc7e9c0ec37b1a2\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera.featurecombinationquery:featurecombinationquery:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\48be5f4ddb9d42acd26815160a99ae41\transformed\jetified-featurecombinationquery-1.5.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\472e7d6eb7947e161b0d5a29ce0346e7\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c360779ffc24d5ddbb05685d7df6e604\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\73eb66596f26fdeb82662a9aac0d1798\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2db56c04aa21d1ea3676a111888b62b4\transformed\jetified-transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
 MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\244f3646ae322b01ba3f1de8b8eb5b16\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\aff422ab3e82deb3d201f2977bd3bd28\transformed\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\a4d5c87112c258bc6bc7e9c0ec37b1a2\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\b4ae48ccb2a5db0beebb34a036ac17e4\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
 	package
 		INJECTED from E:\Android Studio\NewQRcode\app\src\main\AndroidManifest.xml
@@ -114,10 +115,10 @@ MERGED from [com.google.android.material:material:1.13.0] C:\Users\santo\.gradle
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\3beb151ef92d7b70e03040518b424f1b\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\7de8c9b31d9cf9d1bab3bb2e4559bc4b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\7de8c9b31d9cf9d1bab3bb2e4559bc4b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
-MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\dfb94f369a09ef98f15aedae8bb7d20e\transformed\jetified-camera-core-1.4.0\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\dfb94f369a09ef98f15aedae8bb7d20e\transformed\jetified-camera-core-1.4.0\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2601529a2c63d69f47cb3ea20b6e718b\transformed\jetified-camera-core-1.5.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2601529a2c63d69f47cb3ea20b6e718b\transformed\jetified-camera-core-1.5.1\AndroidManifest.xml:23:5-34:19
 MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\fe0966104973af82109b4289efe01234\transformed\jetified-play-services-mlkit-barcode-scanning-18.3.1\AndroidManifest.xml:8:5-16:19
 MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\fe0966104973af82109b4289efe01234\transformed\jetified-play-services-mlkit-barcode-scanning-18.3.1\AndroidManifest.xml:8:5-16:19
 MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\d98c1eedfeae7b222b6f6b57d87af916\transformed\jetified-vision-common-17.3.0\AndroidManifest.xml:8:5-16:19
@@ -230,16 +231,16 @@ MERGED from [com.google.android.material:material:1.13.0] C:\Users\santo\.gradle
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\3beb151ef92d7b70e03040518b424f1b\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\7de8c9b31d9cf9d1bab3bb2e4559bc4b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\7de8c9b31d9cf9d1bab3bb2e4559bc4b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-video:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c7e36612a1898b4f5b9bb433fb89716a\transformed\jetified-camera-video-1.4.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-video:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c7e36612a1898b4f5b9bb433fb89716a\transformed\jetified-camera-video-1.4.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-lifecycle:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\62579073d01e50ab0a22fff7eeff301d\transformed\jetified-camera-lifecycle-1.4.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-lifecycle:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\62579073d01e50ab0a22fff7eeff301d\transformed\jetified-camera-lifecycle-1.4.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\dfb94f369a09ef98f15aedae8bb7d20e\transformed\jetified-camera-core-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\dfb94f369a09ef98f15aedae8bb7d20e\transformed\jetified-camera-core-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-view:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\e981143f38c9c3709b53b32154e2093f\transformed\jetified-camera-view-1.4.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-view:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\e981143f38c9c3709b53b32154e2093f\transformed\jetified-camera-view-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2e5d97d606ca09fd9164ff24d8574db3\transformed\jetified-camera-video-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2e5d97d606ca09fd9164ff24d8574db3\transformed\jetified-camera-video-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\88a15058c9cc4a20768e8a686c344193\transformed\jetified-camera-lifecycle-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\88a15058c9cc4a20768e8a686c344193\transformed\jetified-camera-lifecycle-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2601529a2c63d69f47cb3ea20b6e718b\transformed\jetified-camera-core-1.5.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2601529a2c63d69f47cb3ea20b6e718b\transformed\jetified-camera-core-1.5.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-view:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\900221dd811c843d7a9ab55d39b19faa\transformed\jetified-camera-view-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\900221dd811c843d7a9ab55d39b19faa\transformed\jetified-camera-view-1.5.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\20397ec7f1c50593fd3cb269b2846d71\transformed\jetified-appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\20397ec7f1c50593fd3cb269b2846d71\transformed\jetified-appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.mlkit:barcode-scanning:17.3.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\06bf51a47af3f470649c19fe5ada9383\transformed\jetified-barcode-scanning-17.3.0\AndroidManifest.xml:5:5-44
@@ -350,6 +351,10 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\santo\.gradle\caches\9.0
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\029288897cd415354b4d60a5a85e45ea\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\9eda029897a84e78403634f3fa311bbf\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\9eda029897a84e78403634f3fa311bbf\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\a4d5c87112c258bc6bc7e9c0ec37b1a2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\a4d5c87112c258bc6bc7e9c0ec37b1a2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera.featurecombinationquery:featurecombinationquery:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\48be5f4ddb9d42acd26815160a99ae41\transformed\jetified-featurecombinationquery-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera.featurecombinationquery:featurecombinationquery:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\48be5f4ddb9d42acd26815160a99ae41\transformed\jetified-featurecombinationquery-1.5.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\472e7d6eb7947e161b0d5a29ce0346e7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\472e7d6eb7947e161b0d5a29ce0346e7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c360779ffc24d5ddbb05685d7df6e604\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
@@ -362,8 +367,6 @@ MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\santo\.gra
 MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\244f3646ae322b01ba3f1de8b8eb5b16\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\aff422ab3e82deb3d201f2977bd3bd28\transformed\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\aff422ab3e82deb3d201f2977bd3bd28\transformed\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\a4d5c87112c258bc6bc7e9c0ec37b1a2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\a4d5c87112c258bc6bc7e9c0ec37b1a2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\b4ae48ccb2a5db0beebb34a036ac17e4\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\b4ae48ccb2a5db0beebb34a036ac17e4\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
@@ -371,25 +374,25 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\santo\.gradle\c
 	android:minSdkVersion
 		INJECTED from E:\Android Studio\NewQRcode\app\src\main\AndroidManifest.xml
 service#androidx.camera.core.impl.MetadataHolderService
-ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:24:9-33:19
-MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\dfb94f369a09ef98f15aedae8bb7d20e\transformed\jetified-camera-core-1.4.0\AndroidManifest.xml:29:9-33:78
-MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\dfb94f369a09ef98f15aedae8bb7d20e\transformed\jetified-camera-core-1.4.0\AndroidManifest.xml:29:9-33:78
+ADDED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2601529a2c63d69f47cb3ea20b6e718b\transformed\jetified-camera-core-1.5.1\AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\2601529a2c63d69f47cb3ea20b6e718b\transformed\jetified-camera-core-1.5.1\AndroidManifest.xml:29:9-33:78
 	tools:node
-		ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:29:13-31
+		ADDED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:29:13-31
 	android:enabled
-		ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:26:13-36
+		ADDED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:26:13-36
 	android:exported
-		ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:27:13-37
 	tools:ignore
-		ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:28:13-75
+		ADDED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:28:13-75
 	android:name
-		ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:25:13-75
+		ADDED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:25:13-75
 meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
-ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:30:13-32:89
+ADDED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:30:13-32:89
 	android:value
-		ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:32:17-86
+		ADDED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:32:17-86
 	android:name
-		ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:31:17-103
+		ADDED from [androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:31:17-103
 service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
 ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\fe0966104973af82109b4289efe01234\transformed\jetified-play-services-mlkit-barcode-scanning-18.3.1\AndroidManifest.xml:9:9-15:19
 MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\d98c1eedfeae7b222b6f6b57d87af916\transformed\jetified-vision-common-17.3.0\AndroidManifest.xml:9:9-15:19

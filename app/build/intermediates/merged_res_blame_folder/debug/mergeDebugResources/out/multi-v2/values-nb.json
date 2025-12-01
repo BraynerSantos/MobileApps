@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.brayner.qrscanner.app-mergeDebugResources-54:/values-nb/values-nb.xml",
+            "outputFile": "com.brayner.qrscanner.app-mergeDebugResources-55:/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "C:\\Users\\santo\\.gradle\\caches\\9.0-milestone-1\\transforms\\2fefc608776f8729a27b74474261b45f\\transformed\\appcompat-1.7.1\\res\\values-nb\\values-nb.xml",

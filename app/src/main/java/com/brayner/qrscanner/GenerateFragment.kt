@@ -96,7 +96,7 @@ class GenerateFragment : Fragment() {
             val newFile = java.io.File(imagePath, "image.png")
             val contentUri = androidx.core.content.FileProvider.getUriForFile(
                 requireContext(),
-                "com.example.newqrcode.fileprovider",
+                "com.brayner.qrscanner.fileprovider",
                 newFile
             )
 

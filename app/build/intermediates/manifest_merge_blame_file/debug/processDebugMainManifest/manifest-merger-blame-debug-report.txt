@@ -107,19 +107,19 @@
 62        </provider>
 63
 64        <service
-64-->[androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:24:9-33:19
+64-->[androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:24:9-33:19
 65            android:name="androidx.camera.core.impl.MetadataHolderService"
-65-->[androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:25:13-75
+65-->[androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:25:13-75
 66            android:enabled="false"
-66-->[androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:26:13-36
+66-->[androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:26:13-36
 67            android:exported="false" >
-67-->[androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:27:13-37
+67-->[androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:27:13-37
 68            <meta-data
-68-->[androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:30:13-32:89
+68-->[androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:30:13-32:89
 69                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
-69-->[androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:31:17-103
+69-->[androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:31:17-103
 70                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
-70-->[androidx.camera:camera-camera2:1.4.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\0145d46504762583c49ca738e22e92ad\transformed\jetified-camera-camera2-1.4.0\AndroidManifest.xml:32:17-86
+70-->[androidx.camera:camera-camera2:1.5.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\c636a018b15b3ad9a7f662fd9d7aa349\transformed\jetified-camera-camera2-1.5.1\AndroidManifest.xml:32:17-86
 71        </service>
 72        <service
 72-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\fe0966104973af82109b4289efe01234\transformed\jetified-play-services-mlkit-barcode-scanning-18.3.1\AndroidManifest.xml:9:9-15:19

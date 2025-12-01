@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.brayner.qrscanner.app-mergeDebugResources-54:/values-mr/values-mr.xml",
+            "outputFile": "com.brayner.qrscanner.app-mergeDebugResources-55:/values-mr/values-mr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\santo\\.gradle\\caches\\9.0-milestone-1\\transforms\\a1c343a2ba5270dbfd1cc03b9dba92af\\transformed\\navigation-ui-2.9.6\\res\\values-mr\\values-mr.xml",

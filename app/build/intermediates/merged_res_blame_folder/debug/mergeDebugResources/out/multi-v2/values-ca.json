@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.brayner.qrscanner.app-mergeDebugResources-54:/values-ca/values-ca.xml",
+            "outputFile": "com.brayner.qrscanner.app-mergeDebugResources-55:/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\santo\\.gradle\\caches\\9.0-milestone-1\\transforms\\0b5efc053b0fe62b6a82286a9d938436\\transformed\\jetified-play-services-base-18.5.0\\res\\values-ca\\values.xml",

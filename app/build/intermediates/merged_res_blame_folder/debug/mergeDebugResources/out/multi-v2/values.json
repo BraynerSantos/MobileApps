@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.brayner.qrscanner.app-mergeDebugResources-54:/values/values.xml",
+            "outputFile": "com.brayner.qrscanner.app-mergeDebugResources-55:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\santo\\.gradle\\caches\\9.0-milestone-1\\transforms\\2fefc608776f8729a27b74474261b45f\\transformed\\appcompat-1.7.1\\res\\values\\values.xml",
@@ -90,25 +90,6 @@
                         "startOffsets": "158011",
                         "endColumns": "42",
                         "endOffsets": "158049"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\santo\\.gradle\\caches\\9.0-milestone-1\\transforms\\e981143f38c9c3709b53b32154e2093f\\transformed\\jetified-camera-view-1.4.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,6,14",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,207,514",
-                        "endLines": "5,13,17",
-                        "endColumns": "11,11,24",
-                        "endOffsets": "202,509,652"
-                    },
-                    "to": {
-                        "startLines": "258,561,14361",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "13346,28888,887501",
-                        "endLines": "261,568,14364",
-                        "endColumns": "11,11,24",
-                        "endOffsets": "13493,29190,887639"
                     }
                 },
                 {
@@ -496,6 +477,25 @@
                         "startOffsets": "155566,158054",
                         "endColumns": "41,59",
                         "endOffsets": "155603,158109"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\santo\\.gradle\\caches\\9.0-milestone-1\\transforms\\900221dd811c843d7a9ab55d39b19faa\\transformed\\jetified-camera-view-1.5.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,6,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,207,514",
+                        "endLines": "5,13,17",
+                        "endColumns": "11,11,24",
+                        "endOffsets": "202,509,652"
+                    },
+                    "to": {
+                        "startLines": "258,561,14361",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "13346,28888,887501",
+                        "endLines": "261,568,14364",
+                        "endColumns": "11,11,24",
+                        "endOffsets": "13493,29190,887639"
                     }
                 },
                 {
