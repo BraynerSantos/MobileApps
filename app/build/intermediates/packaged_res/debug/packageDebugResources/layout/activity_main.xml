@@ -72,6 +72,17 @@
     </LinearLayout>
 
     <Button
+        android:id="@+id/btnSettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Widget Settings"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        app:layout_constraintBottom_toTopOf="@+id/btnAnalytics"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
         android:id="@+id/btnAnalytics"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

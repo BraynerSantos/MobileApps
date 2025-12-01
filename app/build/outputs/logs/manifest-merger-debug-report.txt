@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:2:1-45:12
 MERGED from [androidx.databinding:viewbinding:8.13.1] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\b213d3dd819b824c52c6ee71e71ec483\transformed\jetified-viewbinding-8.13.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\e9d6c29a6b81ad09f8d6ed98cbde9cde\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\5195f908d27881f17984ac03b3224ff4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -69,8 +69,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\santo\.gradle\caches\9.0-miles
 	xmlns:android
 		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:5:5-40:19
-INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:5:5-40:19
+ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:5:5-43:19
+INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:5:5-43:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\e9d6c29a6b81ad09f8d6ed98cbde9cde\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\e9d6c29a6b81ad09f8d6ed98cbde9cde\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\santo\.gradle\caches\9.0-milestone-1\transforms\5195f908d27881f17984ac03b3224ff4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -139,24 +139,32 @@ activity#com.brayner.quotes.ui.AnalyticsActivity
 ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:27:9-58
 	android:name
 		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:27:19-55
+activity#com.brayner.quotes.ui.SettingsActivity
+ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:28:9-30:61
+	android:parentActivityName
+		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:30:13-58
+	android:label
+		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:28:19-54
 receiver#com.brayner.quotes.widget.QuoteWidget
-ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:29:9-38:20
+ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:32:9-41:20
 	android:exported
-		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:31:13-37
+		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:30:13-47
+		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:33:13-47
 intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
-ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:32:13-34:29
+ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:35:13-37:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:33:17-84
+ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:36:17-84
 	android:name
-		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:33:25-81
+		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:36:25-81
 meta-data#android.appwidget.provider
-ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:35:13-37:61
+ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:38:13-40:61
 	android:resource
-		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:37:17-58
+		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:40:17-58
 	android:name
-		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:36:17-58
+		ADDED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml:39:17-58
 uses-sdk
 INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Android Studio\Quotes\app\src\main\AndroidManifest.xml

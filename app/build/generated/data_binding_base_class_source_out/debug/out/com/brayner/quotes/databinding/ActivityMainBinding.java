@@ -31,6 +31,9 @@ public final class ActivityMainBinding implements ViewBinding {
   public final Button btnLike;
 
   @NonNull
+  public final Button btnSettings;
+
+  @NonNull
   public final LinearLayout llActions;
 
   @NonNull
@@ -43,12 +46,14 @@ public final class ActivityMainBinding implements ViewBinding {
   public final TextView tvQuote;
 
   private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnAnalytics,
-      @NonNull Button btnDislike, @NonNull Button btnLike, @NonNull LinearLayout llActions,
-      @NonNull TextView tvAuthor, @NonNull TextView tvDate, @NonNull TextView tvQuote) {
+      @NonNull Button btnDislike, @NonNull Button btnLike, @NonNull Button btnSettings,
+      @NonNull LinearLayout llActions, @NonNull TextView tvAuthor, @NonNull TextView tvDate,
+      @NonNull TextView tvQuote) {
     this.rootView = rootView;
     this.btnAnalytics = btnAnalytics;
     this.btnDislike = btnDislike;
     this.btnLike = btnLike;
+    this.btnSettings = btnSettings;
     this.llActions = llActions;
     this.tvAuthor = tvAuthor;
     this.tvDate = tvDate;
@@ -100,6 +105,12 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.btnSettings;
+      Button btnSettings = ViewBindings.findChildViewById(rootView, id);
+      if (btnSettings == null) {
+        break missingId;
+      }
+
       id = R.id.llActions;
       LinearLayout llActions = ViewBindings.findChildViewById(rootView, id);
       if (llActions == null) {
@@ -125,7 +136,7 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       return new ActivityMainBinding((ConstraintLayout) rootView, btnAnalytics, btnDislike, btnLike,
-          llActions, tvAuthor, tvDate, tvQuote);
+          btnSettings, llActions, tvAuthor, tvDate, tvQuote);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

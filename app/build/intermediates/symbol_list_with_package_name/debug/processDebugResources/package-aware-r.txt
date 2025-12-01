@@ -1358,6 +1358,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color black
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -2081,6 +2082,9 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
+color purple_200
+color purple_500
+color purple_700
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -2093,8 +2097,15 @@ color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
+color teal_200
+color teal_700
 color tooltip_background_dark
 color tooltip_background_light
+color white
+color widget_on_surface
+color widget_outline
+color widget_primary
+color widget_surface
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -3081,6 +3092,8 @@ drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable widget_background
+drawable widget_background_m3
+font poppins_regular
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -3183,7 +3196,9 @@ id bounceStart
 id btnAnalytics
 id btnDislike
 id btnLike
+id btnSettings
 id btnSubmit
+id btn_save
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3304,6 +3319,7 @@ id honorRequest
 id horizontal_only
 id icon
 id icon_group
+id icon_quote
 id ifRoom
 id ignore
 id ignoreRequest
@@ -3491,6 +3507,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id seekbar_transparency
 id select_dialog_listview
 id selected
 id selection_type
@@ -3511,6 +3528,7 @@ id snapMargins
 id south
 id spacer
 id special_effects_controller_view_tag
+id spinner_font
 id spline
 id split_action_bar
 id spread
@@ -3556,6 +3574,7 @@ id textTop
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
+id text_transparency_value
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -3597,6 +3616,10 @@ id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
 id west
+id widget_bg_image
+id widget_container
+id widget_root
+id widget_title
 id withText
 id with_icon
 id withinBounds
@@ -3722,6 +3745,7 @@ layout abc_tooltip
 layout activity_analytics
 layout activity_main
 layout activity_onboarding
+layout activity_settings
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3802,6 +3826,10 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout widget_quote
+layout widget_quote_default
+layout widget_quote_elegant
+layout widget_quote_fun
+layout widget_quote_modern
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

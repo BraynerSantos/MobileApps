@@ -80,6 +80,11 @@ class MainActivity : AppCompatActivity() {
         btnAnalytics.setOnClickListener {
             startActivity(Intent(this, AnalyticsActivity::class.java))
         }
+
+        val btnSettings = findViewById<Button>(R.id.btnSettings)
+        btnSettings.setOnClickListener {
+            startActivity(Intent(this, SettingsActivity::class.java))
+        }
     }
 
     private fun disableButtons(vararg buttons: View) {

@@ -4,7 +4,8 @@ package com.brayner.quotes.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.RelativeLayout;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -17,19 +18,33 @@ import java.lang.String;
 
 public final class WidgetQuoteBinding implements ViewBinding {
   @NonNull
-  private final RelativeLayout rootView;
+  private final LinearLayout rootView;
 
   @NonNull
   public final TextView appwidgetText;
 
-  private WidgetQuoteBinding(@NonNull RelativeLayout rootView, @NonNull TextView appwidgetText) {
+  @NonNull
+  public final ImageView iconQuote;
+
+  @NonNull
+  public final LinearLayout widgetContainer;
+
+  @NonNull
+  public final TextView widgetTitle;
+
+  private WidgetQuoteBinding(@NonNull LinearLayout rootView, @NonNull TextView appwidgetText,
+      @NonNull ImageView iconQuote, @NonNull LinearLayout widgetContainer,
+      @NonNull TextView widgetTitle) {
     this.rootView = rootView;
     this.appwidgetText = appwidgetText;
+    this.iconQuote = iconQuote;
+    this.widgetContainer = widgetContainer;
+    this.widgetTitle = widgetTitle;
   }
 
   @Override
   @NonNull
-  public RelativeLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -60,7 +75,22 @@ public final class WidgetQuoteBinding implements ViewBinding {
         break missingId;
       }
 
-      return new WidgetQuoteBinding((RelativeLayout) rootView, appwidgetText);
+      id = R.id.icon_quote;
+      ImageView iconQuote = ViewBindings.findChildViewById(rootView, id);
+      if (iconQuote == null) {
+        break missingId;
+      }
+
+      LinearLayout widgetContainer = (LinearLayout) rootView;
+
+      id = R.id.widget_title;
+      TextView widgetTitle = ViewBindings.findChildViewById(rootView, id);
+      if (widgetTitle == null) {
+        break missingId;
+      }
+
+      return new WidgetQuoteBinding((LinearLayout) rootView, appwidgetText, iconQuote,
+          widgetContainer, widgetTitle);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -57,15 +57,31 @@ class QuoteWidget : AppWidgetProvider() {
                     "Open app to set up"
                 }
 
-                val views = RemoteViews(context.packageName, R.layout.widget_quote)
+                // Read prefs
+                val prefs = context.getSharedPreferences("widget_prefs", Context.MODE_PRIVATE)
+                val fontStyle = prefs.getString("font_style", "Default")
+                val transparency = prefs.getInt("transparency", 100)
+
+                val layoutId = when (fontStyle) {
+                    "Modern" -> R.layout.widget_quote_modern
+                    "Elegant" -> R.layout.widget_quote_elegant
+                    "Fun" -> R.layout.widget_quote_fun
+                    else -> R.layout.widget_quote_default
+                }
+
+                val views = RemoteViews(context.packageName, layoutId)
                 views.setTextViewText(R.id.appwidget_text, quoteText)
+
+                // Set transparency (0-100 -> 0-255)
+                val alpha = (transparency * 255) / 100
+                views.setInt(R.id.widget_bg_image, "setImageAlpha", alpha)
 
                 // Click to open app
                 val intent = Intent(context, MainActivity::class.java)
                 val pendingIntent = PendingIntent.getActivity(
                     context, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
                 )
-                views.setOnClickPendingIntent(R.id.appwidget_text, pendingIntent)
+                views.setOnClickPendingIntent(R.id.widget_container, pendingIntent)
 
                 appWidgetManager.updateAppWidget(appWidgetId, views)
             }

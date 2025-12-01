@@ -25,6 +25,9 @@
 
         <activity android:name=".ui.OnboardingActivity" />
         <activity android:name=".ui.AnalyticsActivity" />
+        <activity android:name=".ui.SettingsActivity"
+            android:label="Widget Settings"
+            android:parentActivityName=".ui.MainActivity" />
 
         <receiver
             android:name=".widget.QuoteWidget"

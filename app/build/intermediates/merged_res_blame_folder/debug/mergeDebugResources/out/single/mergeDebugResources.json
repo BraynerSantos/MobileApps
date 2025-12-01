@@ -12,36 +12,24 @@
         "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_sj.xml"
     },
     {
-        "merged": "com.brayner.quotes.app-debug-42:/drawable_widget_background.xml.flat",
-        "source": "com.brayner.quotes.app-main-44:/drawable/widget_background.xml"
+        "merged": "com.brayner.quotes.app-debug-42:/layout_activity_settings.xml.flat",
+        "source": "com.brayner.quotes.app-main-44:/layout/activity_settings.xml"
     },
     {
-        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\xml\\data_extraction_rules.xml"
+        "merged": "com.brayner.quotes.app-debug-42:/layout_widget_quote_default.xml.flat",
+        "source": "com.brayner.quotes.app-main-44:/layout/widget_quote_default.xml"
     },
     {
         "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\xml_quote_widget_info.xml.flat",
-        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\xml\\quote_widget_info.xml"
-    },
-    {
         "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_ic_settings.xml.flat",
         "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\ic_settings.xml"
     },
     {
-        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_activity_analytics.xml.flat",
-        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\activity_analytics.xml"
-    },
-    {
-        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote.xml.flat",
-        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote.xml"
+        "merged": "com.brayner.quotes.app-debug-42:/font_poppins_regular.ttf.flat",
+        "source": "com.brayner.quotes.app-main-44:/font/poppins_regular.ttf"
     },
     {
         "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_nt.xml.flat",
@@ -60,16 +48,8 @@
         "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.brayner.quotes.app-debug-42:/layout_widget_quote.xml.flat",
-        "source": "com.brayner.quotes.app-main-44:/layout/widget_quote.xml"
-    },
-    {
-        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.brayner.quotes.app-debug-42:/layout_activity_main.xml.flat",
+        "source": "com.brayner.quotes.app-main-44:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_nf.xml.flat",
@@ -78,5 +58,53 @@
     {
         "merged": "com.brayner.quotes.app-debug-42:/xml_quote_widget_info.xml.flat",
         "source": "com.brayner.quotes.app-main-44:/xml/quote_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.brayner.quotes.app-debug-42:/layout_widget_quote_elegant.xml.flat",
+        "source": "com.brayner.quotes.app-main-44:/layout/widget_quote_elegant.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\xml_quote_widget_info.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\xml\\quote_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_activity_analytics.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\activity_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_widget_background.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote.xml"
+    },
+    {
+        "merged": "com.brayner.quotes.app-debug-42:/layout_widget_quote_fun.xml.flat",
+        "source": "com.brayner.quotes.app-main-44:/layout/widget_quote_fun.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.brayner.quotes.app-debug-42:/layout_widget_quote_modern.xml.flat",
+        "source": "com.brayner.quotes.app-main-44:/layout/widget_quote_modern.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_widget_background_m3.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\widget_background_m3.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\ic_launcher_background.xml"
     }
 ]
