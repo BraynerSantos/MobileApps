@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_sacramento.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_sacramento.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_indie_flower.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_indie_flower.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_sj.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_sj.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_hand_indie_flower.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\hand_indie_flower.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_hand_caveat.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\hand_caveat.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_activity_widget_settings.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\activity_widget_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_script_pacifico.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\script_pacifico.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_pacifico.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_pacifico.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_lobster.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_lobster.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_satisfy.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_satisfy.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_amatic_sc.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_amatic_sc.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_satisfy.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_satisfy.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_script_satisfy.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\script_satisfy.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_hand_patrick_hand.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\hand_patrick_hand.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_caveat.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_caveat.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_display_rajdhani.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\display_rajdhani.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_script_great_vibes.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\script_great_vibes.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_pacifico.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_pacifico.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_display_audiowide.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\display_audiowide.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_sacramento.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_sacramento.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_parisienne.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_parisienne.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_script_dancing_script.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\script_dancing_script.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_mono_ibm_plex_mono.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\mono_ibm_plex_mono.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_mono_fira_code.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\mono_fira_code.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_indie_flower.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_indie_flower.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_widget_background_m3.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\widget_background_m3.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_hand_amatic_sc.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\hand_amatic_sc.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_display_orbitron.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\display_orbitron.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_activity_onboarding.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_dancing_script.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_dancing_script.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_dancing_script.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_dancing_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_nt.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_nt.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_sans_lato.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\sans_lato.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_sp.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_sp.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_courgette.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_courgette.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_default.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_script_kaushan_script.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\script_kaushan_script.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_amatic_sc.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_amatic_sc.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_script_sacramento.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\script_sacramento.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_script_parisienne.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\script_parisienne.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_modern.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_modern.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_nf.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_nf.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_great_vibes.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_great_vibes.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_yellowtail.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_yellowtail.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_script_allura.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\script_allura.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_parisienne.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_parisienne.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_lobster.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_lobster.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\xml_quote_widget_info.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\xml\\quote_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_activity_analytics.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\activity_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\drawable_widget_background.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\drawable\\widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_curly_great_vibes.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\curly_great_vibes.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_serif_playfair_display.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\serif_playfair_display.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_yellowtail.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_yellowtail.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_caveat.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_caveat.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_display_bungee.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\display_bungee.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\font_sans_inter.ttf.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\font\\sans_inter.ttf"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_elegant.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_elegant.xml"
+    },
+    {
+        "merged": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-debug-42:\\layout_widget_quote_fun.xml.flat",
+        "source": "C:\\Users\\santo\\.gradle\\daemon\\9.0-milestone-1\\com.brayner.quotes.app-main-44:\\layout\\widget_quote_fun.xml"
+    }
+]

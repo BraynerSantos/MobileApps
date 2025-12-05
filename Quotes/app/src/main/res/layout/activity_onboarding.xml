@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome to Smart Quotes"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="24dp"
+            android:layout_gravity="center_horizontal"/>
+
+        <!-- Age -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="How old are you?"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp"/>
+
+        <EditText
+            android:id="@+id/etAge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="Enter your age"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Gender -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gender"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp"/>
+
+        <RadioGroup
+            android:id="@+id/rgGender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="16dp">
+            <RadioButton android:id="@+id/rbMale" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Male"/>
+            <RadioButton android:id="@+id/rbFemale" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Female"/>
+            <RadioButton android:id="@+id/rbOther" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Other"/>
+        </RadioGroup>
+
+        <!-- MBTI Quiz -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Personality Quiz"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Q1 E/I -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. After a busy week, you prefer to:"
+            android:layout_marginBottom="4dp"/>
+        <RadioGroup
+            android:id="@+id/rgQ1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp">
+            <RadioButton android:id="@+id/rbQ1E" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Go out with friends (Extrovert)"/>
+            <RadioButton android:id="@+id/rbQ1I" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Stay home and relax (Introvert)"/>
+        </RadioGroup>
+
+        <!-- Q2 S/N -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. You focus more on:"
+            android:layout_marginBottom="4dp"/>
+        <RadioGroup
+            android:id="@+id/rgQ2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp">
+            <RadioButton android:id="@+id/rbQ2S" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Facts and details (Sensing)"/>
+            <RadioButton android:id="@+id/rbQ2N" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Ideas and possibilities (Intuition)"/>
+        </RadioGroup>
+
+        <!-- Q3 T/F -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. You make decisions based on:"
+            android:layout_marginBottom="4dp"/>
+        <RadioGroup
+            android:id="@+id/rgQ3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp">
+            <RadioButton android:id="@+id/rbQ3T" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Logic and reason (Thinking)"/>
+            <RadioButton android:id="@+id/rbQ3F" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Values and feelings (Feeling)"/>
+        </RadioGroup>
+
+        <!-- Q4 J/P -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. You prefer your life to be:"
+            android:layout_marginBottom="4dp"/>
+        <RadioGroup
+            android:id="@+id/rgQ4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp">
+            <RadioButton android:id="@+id/rbQ4J" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Planned and organized (Judging)"/>
+            <RadioButton android:id="@+id/rbQ4P" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Flexible and spontaneous (Perceiving)"/>
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btnSubmit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Get My Daily Quote"
+            android:padding="12dp"/>
+
+    </LinearLayout>
+</ScrollView>
